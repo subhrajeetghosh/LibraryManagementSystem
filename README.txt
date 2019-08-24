@@ -1,7 +1,9 @@
 # LibraryManagementSystem
 It's A System developed Based on Core java.
 System developed on Spring Tool Suite 4 by pivotal.
-Where you can access in two way as an admin or member.
+
+
+Where you can do activity related to library and access in two way as an admin or member.
 
 
 as an admin we have function like this -
